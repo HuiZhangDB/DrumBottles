@@ -22,4 +22,4 @@ Knocking the bottles can make different kinds of kick-drum sound. The correspond
 
 Have a try! Knock the corresponding bottle when it stands up on screen. 
 
-<iframe width="560" height="315" align="middle" src="https://www.youtube.com/embed/ayQOoPAvtNA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="281" align="middle" src="https://www.youtube.com/embed/ayQOoPAvtNA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
